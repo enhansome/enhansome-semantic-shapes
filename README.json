@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T14:54:55Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1401
+            "stars": 1403
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T09:06:15Z",
+            "last_commit": "2026-08-14T10:26:45Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 409
@@ -68,7 +68,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T15:16:38Z",
+            "last_commit": "2026-08-13T18:01:35Z",
             "owner": "DataTreehouse",
             "repo": "maplib",
             "stars": 182
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-12T14:54:55Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1401
+            "stars": 1403
           }
         },
         {
@@ -187,7 +187,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T11:01:07Z",
+            "last_commit": "2026-08-14T09:48:04Z",
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:46:14.657Z",
+    "last_updated": "2026-08-14T10:42:20.386Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
     "enhanced_repository": "enhansome/enhansome-semantic-shapes",
