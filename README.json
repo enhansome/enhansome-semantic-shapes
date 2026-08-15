@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T14:54:55Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T10:26:45Z",
+            "last_commit": "2026-08-14T13:23:38Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 409
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-12T14:54:55Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -187,7 +187,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T09:48:04Z",
+            "last_commit": "2026-08-15T06:30:45Z",
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:42:20.386Z",
+    "last_updated": "2026-08-15T10:02:00.713Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
     "enhanced_repository": "enhansome/enhansome-semantic-shapes",
