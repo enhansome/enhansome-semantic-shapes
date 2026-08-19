@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-19T09:36:23Z",
+            "last_commit": "2026-08-19T12:29:56Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-19T07:15:55Z",
+            "last_commit": "2026-08-19T12:56:40Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 596
@@ -515,8 +515,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:11:37.233Z",
+    "last_updated": "2026-08-19T12:57:01.853Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
+    "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
     "enhanced_repository": "enhansome/enhansome-semantic-shapes",
     "enhanced_repository_description": null,
