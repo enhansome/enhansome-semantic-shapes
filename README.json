@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:48:46Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-19T12:29:56Z",
+            "last_commit": "2026-08-19T18:25:16Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -218,7 +218,7 @@
             "last_commit": "2026-08-19T08:48:46Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -230,7 +230,7 @@
             "archived": false,
             "id": 40290521,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T12:07:37Z",
+            "last_commit": "2026-08-19T17:25:58Z",
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-19T12:56:40Z",
+            "last_commit": "2026-08-20T07:15:48Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 596
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:01.853Z",
+    "last_updated": "2026-08-20T10:13:29.865Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
