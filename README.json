@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-19T08:48:46Z",
+            "last_commit": "2026-08-20T11:28:37Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1408
+            "stars": 1411
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-19T18:25:16Z",
+            "last_commit": "2026-08-21T08:02:40Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -215,10 +215,10 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-19T08:48:46Z",
+            "last_commit": "2026-08-20T11:28:37Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1408
+            "stars": 1411
           }
         },
         {
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-20T07:15:48Z",
+            "last_commit": "2026-08-21T07:15:42Z",
             "owner": "linkml",
             "repo": "linkml",
-            "stars": 596
+            "stars": 599
           }
         },
         {
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 605467484,
             "language": "Rust",
-            "last_commit": "2026-08-18T11:53:58Z",
+            "last_commit": "2026-08-20T21:28:48Z",
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 116
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:13:29.865Z",
+    "last_updated": "2026-08-21T10:13:48.684Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
