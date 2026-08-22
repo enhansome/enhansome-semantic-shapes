@@ -12,7 +12,7 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-20T11:28:37Z",
+            "last_commit": "2026-08-21T11:52:03Z",
             "owner": "apache",
             "repo": "jena",
             "stars": 1411
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-21T08:02:40Z",
+            "last_commit": "2026-08-22T05:50:44Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -215,7 +215,7 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-20T11:28:37Z",
+            "last_commit": "2026-08-21T11:52:03Z",
             "owner": "apache",
             "repo": "jena",
             "stars": 1411
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-21T07:15:42Z",
+            "last_commit": "2026-08-21T12:39:20Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 599
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 605467484,
             "language": "Rust",
-            "last_commit": "2026-08-20T21:28:48Z",
+            "last_commit": "2026-08-21T13:44:17Z",
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:13:48.684Z",
+    "last_updated": "2026-08-22T10:02:07.142Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
