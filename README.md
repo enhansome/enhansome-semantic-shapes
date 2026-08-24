@@ -91,7 +91,7 @@ Also see [Polyglot Modeling](https://github.com/json-ld/yaml-ld/issues/19) ⭐ 4
 
 <!--lint ignore double-link-->
 
-* [LinkML](https://linkml.io/linkml/) ([GitHub](https://github.com/linkml/linkml) ⭐ 600 | 🐛 837 | 🌐 Python | 📅 2026-08-24 and [more repos](https://github.com/orgs/linkml/repositories)) <img alt="PyPi" src="https://img.shields.io/pypi/v/linkml" align="top"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/linkml/linkml" align="top"> - Input is YAML; output is [SHACL](https://linkml.io/linkml/generators/shacl.html), [ShEx](https://linkml.io/linkml/generators/shex.html), JSON Schema, JSON-LD context and instances, SPARQL, OWL, GraphQL, Pydantic Python, ProtoBuf, various documentation formats; `Apache` license `Python`.
+* [LinkML](https://linkml.io/linkml/) ([GitHub](https://github.com/linkml/linkml) ⭐ 600 | 🐛 836 | 🌐 Python | 📅 2026-08-24 and [more repos](https://github.com/orgs/linkml/repositories)) <img alt="PyPi" src="https://img.shields.io/pypi/v/linkml" align="top"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/linkml/linkml" align="top"> - Input is YAML; output is [SHACL](https://linkml.io/linkml/generators/shacl.html), [ShEx](https://linkml.io/linkml/generators/shex.html), JSON Schema, JSON-LD context and instances, SPARQL, OWL, GraphQL, Pydantic Python, ProtoBuf, various documentation formats; `Apache` license `Python`.
 * [rudof](https://github.com/rudof-project/rudof) ⭐ 117 | 🐛 199 | 🌐 Rust | 📅 2026-08-24 <img alt="Latest Version" src="https://img.shields.io/crates/v/rudof-cli" align="top"> <img alt="Release Date" src="https://img.shields.io/github/release-date/rudof-project/rudof" align="top"> - Converts between different RDF Data modeling technologies: SHACL, SHEX, [DCTAP](https://github.com/dcmi/dctap) ⭐ 38 | 🐛 35 | 📅 2026-06-26, UML diagrams, HTML documentation. [docs](https://rudof-project.github.io/rudof/cli_usage/convert.html).
 * [sheXer](https://github.com/weso/shexer) ⭐ 51 | 🐛 33 | 🌐 Python | 📅 2026-06-16 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/weso/shexer" align="top"> - Library to extract ShEx/SHACL shapes from RDF data, SPARQL endpoints, or rdflib graphs. It offers iterative parsing and/or sampling to deal with big datasets; `Apache` License; `Python`. See ([publication](https://doi.org/10.1016/j.knosys.2021.107975), [projects using it](https://github.com/weso/shexer/network/dependents?dependents_before=MTUzNjIwMTg0MTA) ⭐ 51 | 🐛 33 | 🌐 Python | 📅 2026-06-16)
 * [owl2shacl](https://github.com/sparna-git/owl2shacl) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2026-08-09 - OWL-to-SHACL conversion rules.
@@ -139,10 +139,10 @@ Data viewers/Editors based on shapes.
 
 ## IDE support
 
+* [SHACLC Language Server](https://marketplace.visualstudio.com/items?itemName=jeswr.shaclc-language-server) ([source](https://github.com/jeswr/shaclc-language-server) ⭐ 1 | 🐛 0 | 🌐 ANTLR | 📅 2023-01-02) - A VS Code extension providing language intelligence (diagnostics, hover tooltips, auto-completion, etc.) for CG standard SHACL Compact Syntax via the Language Server Protocol. MIT License.
 * [Linked Data Extension](https://marketplace.visualstudio.com/items?itemName=Elsevier.linked-data) - VS Code Extension for editing RDF files with embedded SHACL validator and SPARQL engine.
 * [SHACL Language Server](https://marketplace.visualstudio.com/items?itemName=stardog-union.vscode-langserver-shacl) - A VS Code extension providing language intelligence (diagnostics, hover tooltips, auto-completion, etc.) for W3C standard SHACL via the Language Server Protocol.
 * [Mentor RDF for VS Code](https://marketplace.visualstudio.com/items?itemName=faubulous.mentor) - Code editing support for RDF, RDFS, OWL, SKOS, SHACL and SPARQL.
-* [SHACLC Language Server](https://marketplace.visualstudio.com/items?itemName=jeswr.shaclc-language-server) ([source](https://github.com/jeswr/shaclc-language-server) ⭐ 1 | 🐛 0 | 🌐 ANTLR | 📅 2023-01-02) - A VS Code extension providing language intelligence (diagnostics, hover tooltips, auto-completion, etc.) for CG standard SHACL Compact Syntax via the Language Server Protocol. MIT License.
 * [RDF and SPARQL](https://rdfandsparql.com/) - IntelliJ plugin with editor support for ShEx Compact syntax and SHACL validation.
 
 ## Books
@@ -194,10 +194,10 @@ Data viewers/Editors based on shapes.
   * [DASH Data Shapes](https://www.datashapes.org/) - Platform-independent extensions of SHACL for common tasks. Stuff that could become an official standard in the future.
 
 * ShEx
+  * [ShEx Text Suite](https://github.com/shexSpec/shexTest) ⭐ 3 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-19 and [website](https://shexspec.github.io/shexTest/) - Version `next@1.0.2`, last release 5 October 2018.
   * [ShEx Community Group](https://www.w3.org/groups/cg/shex/) - [blog](https://www.w3.org/community/shex/) (active 2017-2019), [mlist](https://lists.w3.org/Archives/Public/public-shex/) (2017-2023), [resources/tools](https://www.w3.org/groups/cg/shex/tools/).
   * [Shape Expressions Language 2.1](https://shex.io/shex-semantics/index.html) - Final Community Group Report, 8 October 2019.
   * [ShEx Primer](https://shexspec.github.io/primer/index.html) - Draft Community Group Report, 7 December 2022.
-  * [ShEx Text Suite](https://github.com/shexSpec/shexTest) ⭐ 3 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-19 and [website](https://shexspec.github.io/shexTest/) - Version `next@1.0.2`, last release 5 October 2018.
   * [Recommended Practice for Standard for Shape Expression Schemas](https://shexspec.github.io/spec/) - IEEE Computer Society P3330/D3, Draft 9 October 2024. Next-version spec with `EXTENDS` keyword.
   * [ShEx Primer](https://shex.io/primer-next/) - Primer with `EXTENDS` keyword, Draft Community Group Report 25 May 2022.
 

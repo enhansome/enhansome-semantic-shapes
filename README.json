@@ -172,6 +172,21 @@
         },
         {
           "node_type": "item",
+          "title": "rudof",
+          "description": "Implements ShEx, SHACL, DCTAP, and other technologies in the RDF ecosystem; library and CLI; and licenses; with bindings. docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 605467484,
+            "language": "Rust",
+            "last_commit": "2026-08-24T08:31:08Z",
+            "owner": "rudof-project",
+            "repo": "rudof",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pySHACL",
           "description": "pySHACL: A Python validator for SHACL. One of the most comprehensive SHACL implementations. Uses RDFLib for working with RDF and OWL-RL library for OWL2 RL Profile-based expansion of data graphs; license; .",
           "children": [],
@@ -198,6 +213,21 @@
             "owner": "SDM-TIB",
             "repo": "Trav-SHACL",
             "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xpshacl",
+          "description": "xpSHACL: Explainable SHACL Validation. Combining rule-based justification trees with retrieval-augmented generation (RAG) and large language models (LLMs) to produce detailed, understandable, multi-language explanations. license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944516008,
+            "language": "Python",
+            "last_commit": "2025-07-16T07:17:31Z",
+            "owner": "gcpdev",
+            "repo": "xpshacl",
+            "stars": 6
           }
         }
       ],
@@ -265,6 +295,21 @@
             "owner": "HW-SWeL",
             "repo": "ShEx-validator",
             "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rudof",
+          "description": "Implements ShEx, SHACL, DCTAP, and other technologies in the RDF ecosystem; library and CLI; and licenses; with bindings. docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 605467484,
+            "language": "Rust",
+            "last_commit": "2026-08-24T08:31:08Z",
+            "owner": "rudof-project",
+            "repo": "rudof",
+            "stars": 117
           }
         }
       ],
@@ -363,7 +408,7 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-24T07:21:59Z",
+            "last_commit": "2026-08-24T14:00:22Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 600
@@ -474,7 +519,7 @@
             "archived": false,
             "id": 587204629,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:03:21Z",
+            "last_commit": "2026-08-24T12:27:57Z",
             "owner": "ULB-Darmstadt",
             "repo": "shacl-form",
             "stars": 90
@@ -509,13 +554,98 @@
             "repo": "shacl-forms",
             "stars": 7
           }
+        },
+        {
+          "node_type": "item",
+          "title": "shacl-form",
+          "description": "(Daniel Beeke) - A custom element SHACL form generator library; docs; license; .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622221067,
+            "language": "TypeScript",
+            "last_commit": "2023-10-05T14:08:27Z",
+            "owner": "danielbeeke",
+            "repo": "shacl-form",
+            "stars": 7
+          }
         }
       ],
       "title": "Declarative UIs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SHACLC Language Server",
+          "description": "(source) - A VS Code extension providing language intelligence (diagnostics, hover tooltips, auto-completion, etc.) for CG standard SHACL Compact Syntax via the Language Server Protocol. MIT License.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315260106,
+            "language": "ANTLR",
+            "last_commit": "2023-01-02T09:44:56Z",
+            "owner": "jeswr",
+            "repo": "shaclc-language-server",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "IDE support"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SHACL Masterclass by Veronika Heimsbakk",
+          "description": "Knowledge Graph Conference 2021, 2022, 2023. Connected Data London, 2024.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317516699,
+            "language": null,
+            "last_commit": "2026-05-22T11:53:32Z",
+            "owner": "veleda",
+            "repo": "shacl-masterclass",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Talks and Presentations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ShEx",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ShEx Text Suite",
+              "description": "and website - Version , last release 5 October 2018.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40290850,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T17:25:12Z",
+                "owner": "shexSpec",
+                "repo": "shexTest",
+                "stars": 3
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Specifications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:23:09.451Z",
+    "last_updated": "2026-08-24T14:44:15.249Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
