@@ -12,7 +12,7 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-21T11:52:03Z",
+            "last_commit": "2026-08-24T07:13:01Z",
             "owner": "apache",
             "repo": "jena",
             "stars": 1411
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-23T06:33:13Z",
+            "last_commit": "2026-08-23T19:39:23Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -91,7 +91,7 @@
             "last_commit": "2026-04-02T13:31:48Z",
             "owner": "zazuko",
             "repo": "rdf-validate-shacl",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -215,7 +215,7 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-21T11:52:03Z",
+            "last_commit": "2026-08-24T07:13:01Z",
             "owner": "apache",
             "repo": "jena",
             "stars": 1411
@@ -230,7 +230,7 @@
             "archived": false,
             "id": 40290521,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T15:06:14Z",
+            "last_commit": "2026-08-23T16:19:45Z",
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-21T12:39:20Z",
+            "last_commit": "2026-08-24T07:21:59Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 600
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 605467484,
             "language": "Rust",
-            "last_commit": "2026-08-22T17:07:42Z",
+            "last_commit": "2026-08-24T08:31:08Z",
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 117
@@ -474,10 +474,10 @@
             "archived": false,
             "id": 587204629,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T15:20:49Z",
+            "last_commit": "2026-08-24T09:03:21Z",
             "owner": "ULB-Darmstadt",
             "repo": "shacl-form",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:02:25.065Z",
+    "last_updated": "2026-08-24T10:23:09.451Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
