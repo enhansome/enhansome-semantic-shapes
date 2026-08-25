@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-23T19:39:23Z",
+            "last_commit": "2026-08-24T20:09:47Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -164,7 +164,7 @@
             "archived": false,
             "id": 731224236,
             "language": "Java",
-            "last_commit": "2026-08-18T17:12:08Z",
+            "last_commit": "2026-08-25T03:47:24Z",
             "owner": "SHACL-X",
             "repo": "shacl-x",
             "stars": 7
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:15.249Z",
+    "last_updated": "2026-08-25T06:34:55.015Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
