@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-24T07:13:01Z",
+            "last_commit": "2026-08-26T09:46:09Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1413
+            "stars": 1417
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-25T09:41:55Z",
+            "last_commit": "2026-08-26T08:23:48Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
@@ -61,7 +61,7 @@
             "last_commit": "2026-06-30T15:13:06Z",
             "owner": "TopQuadrant",
             "repo": "shacl",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -73,7 +73,7 @@
             "archived": false,
             "id": 677368080,
             "language": "Rust",
-            "last_commit": "2026-08-25T09:39:47Z",
+            "last_commit": "2026-08-26T07:21:34Z",
             "owner": "DataTreehouse",
             "repo": "maplib",
             "stars": 184
@@ -164,7 +164,7 @@
             "archived": false,
             "id": 731224236,
             "language": "Java",
-            "last_commit": "2026-08-25T09:12:39Z",
+            "last_commit": "2026-08-25T20:17:13Z",
             "owner": "SHACL-X",
             "repo": "shacl-x",
             "stars": 7
@@ -245,10 +245,10 @@
             "archived": false,
             "id": 7437073,
             "language": "Java",
-            "last_commit": "2026-08-24T07:13:01Z",
+            "last_commit": "2026-08-26T09:46:09Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1413
+            "stars": 1417
           }
         },
         {
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-25T08:43:33Z",
+            "last_commit": "2026-08-26T01:54:09Z",
             "owner": "linkml",
             "repo": "linkml",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:15:07.788Z",
+    "last_updated": "2026-08-26T10:19:28.102Z",
     "original_repository": "w3c-cg/awesome-semantic-shapes",
     "original_repository_id": 859430257,
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
