@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T19:13:46Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1419
+            "stars": 1420
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-27T07:08:58Z",
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-08-26T19:13:46Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1419
+            "stars": 1420
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-27T07:08:58Z",
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 118
+            "stars": 119
           }
         }
       ],
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-27T10:55:25Z",
+            "last_commit": "2026-08-27T19:31:42Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 603
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-27T07:08:58Z",
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:24.248Z",
+    "last_updated": "2026-08-27T20:00:42.461Z",
     "original_repository_info": {
       "archived": false,
       "id": 859430257,
