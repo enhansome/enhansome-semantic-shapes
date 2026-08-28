@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T19:13:46Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1420
-          }
+            "stars": 1423
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 49670957,
             "language": "Java",
-            "last_commit": "2026-08-27T05:21:36Z",
+            "last_commit": "2026-08-28T07:57:04Z",
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -47,11 +49,12 @@
                 "archived": false,
                 "id": 388715309,
                 "language": "Java",
-                "last_commit": "2026-08-07T15:59:04Z",
+                "last_commit": "2026-08-28T09:47:43Z",
                 "owner": "ISAITB",
                 "repo": "shacl-validator",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ],
           "repo_info": {
@@ -62,7 +65,8 @@
             "owner": "TopQuadrant",
             "repo": "shacl",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -76,8 +80,9 @@
             "last_commit": "2026-08-26T07:21:34Z",
             "owner": "DataTreehouse",
             "repo": "maplib",
-            "stars": 184
-          }
+            "stars": 183
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -92,7 +97,8 @@
             "owner": "zazuko",
             "repo": "rdf-validate-shacl",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -107,7 +113,8 @@
             "owner": "TopQuadrant",
             "repo": "shacl-js",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
                 "owner": "rdf-ext",
                 "repo": "rdf-ext-cli",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ],
           "repo_info": {
@@ -138,7 +146,8 @@
             "owner": "rdf-ext",
             "repo": "shacl-engine",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -153,7 +162,8 @@
             "owner": "ruby-rdf",
             "repo": "shacl",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -168,7 +178,8 @@
             "owner": "SHACL-X",
             "repo": "shacl-x",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -179,11 +190,12 @@
             "archived": false,
             "id": 605467484,
             "language": "Rust",
-            "last_commit": "2026-08-27T07:08:58Z",
+            "last_commit": "2026-08-28T06:40:08Z",
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -198,7 +210,8 @@
             "owner": "RDFLib",
             "repo": "pySHACL",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -213,7 +226,8 @@
             "owner": "SDM-TIB",
             "repo": "Trav-SHACL",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -228,7 +242,8 @@
             "owner": "gcpdev",
             "repo": "xpshacl",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "SHACL Validators"
@@ -248,8 +263,9 @@
             "last_commit": "2026-08-26T19:13:46Z",
             "owner": "apache",
             "repo": "jena",
-            "stars": 1420
-          }
+            "stars": 1423
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -264,7 +280,8 @@
             "owner": "shexjs",
             "repo": "shex.js",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
                 "owner": "HW-SWeL",
                 "repo": "Validata",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ],
           "repo_info": {
@@ -295,7 +313,8 @@
             "owner": "HW-SWeL",
             "repo": "ShEx-validator",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -306,11 +325,12 @@
             "archived": false,
             "id": 605467484,
             "language": "Rust",
-            "last_commit": "2026-08-27T07:08:58Z",
+            "last_commit": "2026-08-28T06:40:08Z",
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "ShEx Validators"
@@ -331,7 +351,8 @@
             "owner": "sparna-git",
             "repo": "SHACL-Catalog",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -346,7 +367,8 @@
             "owner": "AKSW",
             "repo": "discover-shacl-shapes",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "Shape Discovery Tools and Collections"
@@ -367,7 +389,8 @@
             "owner": "mathiasrichter",
             "repo": "shapiro",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -382,7 +405,8 @@
             "owner": "comake",
             "repo": "shacl-to-json-schema",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -397,7 +421,8 @@
             "owner": "AKSW",
             "repo": "ShacShifter",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -408,11 +433,12 @@
             "archived": false,
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-27T19:31:42Z",
+            "last_commit": "2026-08-28T18:17:00Z",
             "owner": "linkml",
             "repo": "linkml",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -423,11 +449,12 @@
             "archived": false,
             "id": 605467484,
             "language": "Rust",
-            "last_commit": "2026-08-27T07:08:58Z",
+            "last_commit": "2026-08-28T06:40:08Z",
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -442,7 +469,8 @@
             "owner": "weso",
             "repo": "shexer",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -457,7 +485,8 @@
             "owner": "sparna-git",
             "repo": "owl2shacl",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -472,7 +501,8 @@
             "owner": "elevont",
             "repo": "owl2shacl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -487,7 +517,8 @@
             "owner": "Wimmics",
             "repo": "RDFminer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "Shape Convertors and Generators"
@@ -508,7 +539,8 @@
             "owner": "sparna-git",
             "repo": "Sparnatural",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -519,11 +551,12 @@
             "archived": false,
             "id": 587204629,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:11:54Z",
+            "last_commit": "2026-08-28T07:19:07Z",
             "owner": "ULB-Darmstadt",
             "repo": "shacl-form",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -538,7 +571,8 @@
             "owner": "hypermedia-app",
             "repo": "shaperone",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -553,7 +587,8 @@
             "owner": "zazuko",
             "repo": "shacl-forms",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         },
         {
           "node_type": "item",
@@ -568,7 +603,8 @@
             "owner": "danielbeeke",
             "repo": "shacl-form",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "Declarative UIs"
@@ -589,7 +625,8 @@
             "owner": "jeswr",
             "repo": "shaclc-language-server",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "IDE support"
@@ -610,7 +647,8 @@
             "owner": "veleda",
             "repo": "shacl-masterclass",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.382Z"
         }
       ],
       "title": "Talks and Presentations"
@@ -636,7 +674,8 @@
                 "owner": "shexSpec",
                 "repo": "shexTest",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ]
         }
@@ -645,7 +684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:00:42.461Z",
+    "last_updated": "2026-08-28T21:00:08.382Z",
     "original_repository_info": {
       "archived": false,
       "id": 859430257,
