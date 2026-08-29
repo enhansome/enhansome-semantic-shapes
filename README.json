@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.",
+            "homepage": "https://jena.apache.org/",
             "id": 7437073,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:13:46Z",
+            "open_issues": 95,
             "owner": "apache",
             "repo": "jena",
-            "stars": 1423
+            "stars": 1424,
+            "topics": [
+              "apache",
+              "jena",
+              "rdf",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -26,12 +36,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse RDF4J: scalable RDF for Java",
+            "homepage": "https://rdf4j.org/",
             "id": 49670957,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T07:57:04Z",
+            "open_issues": 394,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "hacktoberfest",
+              "java",
+              "linked-data",
+              "rdf",
+              "semantic-web",
+              "shacl",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -47,24 +70,43 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web and command-line application supported by the European Commission’s DIGIT for the validation of RDF data.",
+                "homepage": "https://www.itb.ec.europa.eu",
                 "id": 388715309,
                 "language": "Java",
+                "license": "EUPL-1.2",
                 "last_commit": "2026-08-28T09:47:43Z",
+                "open_issues": 0,
                 "owner": "ISAITB",
                 "repo": "shacl-validator",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "conformance",
+                  "interoperability",
+                  "rdf",
+                  "shacl",
+                  "testing",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "SHACL API in Java based on Apache Jena",
+            "homepage": null,
             "id": 36161366,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T15:13:06Z",
+            "open_issues": 16,
             "owner": "TopQuadrant",
             "repo": "shacl",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -75,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 677368080,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:21:34Z",
+            "open_issues": 12,
             "owner": "DataTreehouse",
             "repo": "maplib",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -91,12 +138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validate RDF data purely in JavaScript. An implementation of the W3C SHACL specification on top of the RDFJS stack.",
+            "homepage": null,
             "id": 243048245,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-02T13:31:48Z",
+            "open_issues": 26,
             "owner": "zazuko",
             "repo": "rdf-validate-shacl",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "rdf",
+              "shacl",
+              "shape",
+              "validation",
+              "w3c"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -107,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SHACL API in JavaScript",
+            "homepage": null,
             "id": 97347444,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-10T23:15:52Z",
+            "open_issues": 5,
             "owner": "TopQuadrant",
             "repo": "shacl-js",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -128,24 +191,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tool for RDF-Ext",
+                "homepage": null,
                 "id": 726962035,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-18T07:48:45Z",
+                "open_issues": 0,
                 "owner": "rdf-ext",
                 "repo": "rdf-ext-cli",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A fast RDF/JS SHACL engine",
+            "homepage": null,
             "id": 593840852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T06:43:11Z",
+            "open_issues": 6,
             "owner": "rdf-ext",
             "repo": "shacl-engine",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -156,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Shapes Constraint Language (SHACL) for RDF.rb",
+            "homepage": null,
             "id": 316305038,
             "language": "Ruby",
+            "license": "Unlicense",
             "last_commit": "2025-06-24T21:32:49Z",
+            "open_issues": 2,
             "owner": "ruby-rdf",
             "repo": "shacl",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -172,12 +250,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SHACL eXtended: extends the TopBraid SHACL API by reinstating the SHACL JavaScript Extensions using GraalVM and more",
+            "homepage": "https://shacl-x.github.io/docs/",
             "id": 731224236,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T20:17:13Z",
+            "open_issues": 21,
             "owner": "SHACL-X",
             "repo": "shacl-x",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "rdf",
+              "shacl",
+              "shacl-rules",
+              "shacl-shapes",
+              "validation",
+              "w3c"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -188,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RDF data shapes implementation in Rust ",
+            "homepage": "https://rudof-project.github.io",
             "id": 605467484,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:40:08Z",
+            "open_issues": 199,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -204,12 +299,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python validator for SHACL",
+            "homepage": null,
             "id": 147505799,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T01:35:01Z",
+            "open_issues": 45,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "constraints",
+              "owl",
+              "rdf",
+              "shacl",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -220,12 +326,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SHACL validator capable of planning the traversal and execution of the validation of a shape schema to detect violations early.",
+            "homepage": "https://sdm-tib.github.io/Trav-SHACL/",
             "id": 330678988,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-24T11:00:12Z",
+            "open_issues": 1,
             "owner": "SDM-TIB",
             "repo": "Trav-SHACL",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "constraint-validation",
+              "knowledge-graph",
+              "semantic-web",
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -236,12 +352,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "xpSHACL is an explainable SHACL validation system designed to provide human-friendly, actionable explanations for SHACL constraint violations. ",
+            "homepage": null,
             "id": 944516008,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-16T07:17:31Z",
+            "open_issues": 0,
             "owner": "gcpdev",
             "repo": "xpshacl",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -258,12 +381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.",
+            "homepage": "https://jena.apache.org/",
             "id": 7437073,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:13:46Z",
+            "open_issues": 95,
             "owner": "apache",
             "repo": "jena",
-            "stars": 1423
+            "stars": 1424,
+            "topics": [
+              "apache",
+              "jena",
+              "rdf",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -274,12 +407,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shex.js javascript package",
+            "homepage": "https://shex.js.org/",
             "id": 40290521,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T16:19:45Z",
+            "open_issues": 37,
             "owner": "shexjs",
             "repo": "shex.js",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "rdf",
+              "schema",
+              "shex"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -295,24 +437,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Online frontend for ShEx-validator for restricted deployment environments",
+                "homepage": "http://hw-swel.github.io/Validata/",
                 "id": 31367651,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-07T19:33:38Z",
+                "open_issues": 28,
                 "owner": "HW-SWeL",
                 "repo": "Validata",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.382Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "ShEx-validator parses a ShEx schema and RDF data file and validates the resources in the data against the shapes in the schema",
+            "homepage": null,
             "id": 31075832,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-05T10:16:21Z",
+            "open_issues": 8,
             "owner": "HW-SWeL",
             "repo": "ShEx-validator",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -323,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RDF data shapes implementation in Rust ",
+            "homepage": "https://rudof-project.github.io",
             "id": 605467484,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:40:08Z",
+            "open_issues": 199,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -345,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 225076092,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-20T15:44:06Z",
+            "open_issues": 0,
             "owner": "sparna-git",
             "repo": "SHACL-Catalog",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -361,12 +523,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Example implementation of a SHACL discovery service.",
+            "homepage": "https://schreckl.inspirito.de/",
             "id": 96791365,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-01-09T12:21:36Z",
+            "open_issues": 3,
             "owner": "AKSW",
             "repo": "discover-shacl-shapes",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -383,12 +552,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modelling data with JSON-LD, Turtle, SHACL",
+            "homepage": null,
             "id": 481902624,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-18T05:30:04Z",
+            "open_issues": 5,
             "owner": "mathiasrichter",
             "repo": "shapiro",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "data",
+              "data-structures",
+              "json-ld",
+              "json-schema",
+              "linked-data",
+              "model-as-code",
+              "openapi",
+              "rdf",
+              "schema",
+              "semantic",
+              "semantic-web",
+              "shacl",
+              "sparql",
+              "turtle"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -399,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 663635220,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-10-19T10:49:10Z",
+            "open_issues": 2,
             "owner": "comake",
             "repo": "shacl-to-json-schema",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -415,12 +609,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A shape shifter for the Shapes Constraint Language (SHACL) to various other format and vice versa.",
+            "homepage": null,
             "id": 96198326,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-04T09:16:01Z",
+            "open_issues": 11,
             "owner": "AKSW",
             "repo": "ShacShifter",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "form",
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -431,12 +633,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linked Open Data Modeling Language",
+            "homepage": "https://linkml.io/linkml",
             "id": 348419208,
             "language": "Python",
-            "last_commit": "2026-08-28T18:17:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:47:02Z",
+            "open_issues": 840,
             "owner": "linkml",
             "repo": "linkml",
-            "stars": 603
+            "stars": 603,
+            "topics": [
+              "data-dictionaries",
+              "data-modeling",
+              "hacktoberfest",
+              "json-ld-context",
+              "json-schema",
+              "linked-data",
+              "linkml",
+              "linkml-schema",
+              "modeling",
+              "owl",
+              "rdf",
+              "schema",
+              "semantic-web",
+              "shacl",
+              "shex",
+              "standards"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -447,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RDF data shapes implementation in Rust ",
+            "homepage": "https://rudof-project.github.io",
             "id": 605467484,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:40:08Z",
+            "open_issues": 199,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -463,12 +692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 132451334,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T18:36:28Z",
+            "open_issues": 33,
             "owner": "weso",
             "repo": "shexer",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -479,12 +713,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWL 2 SHACL conversion rule",
+            "homepage": "https://shacl-play.sparna.fr/play/convert",
             "id": 303983436,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-09T20:33:32Z",
+            "open_issues": 5,
             "owner": "sparna-git",
             "repo": "owl2shacl",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "owl",
+              "rdf",
+              "shacl",
+              "shacl-play"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -495,12 +739,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert simple OWL ontologies into SHACL shapes",
+            "homepage": null,
             "id": 782896073,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-04-06T16:40:13Z",
+            "open_issues": 0,
             "owner": "elevont",
             "repo": "owl2shacl",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cli",
+              "conversion",
+              "owl",
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -511,12 +765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 754629721,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-20T15:43:54Z",
+            "open_issues": 0,
             "owner": "Wimmics",
             "repo": "RDFminer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -533,12 +792,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sparnatural : visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL",
+            "homepage": "http://sparnatural.eu",
             "id": 146879533,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-19T10:03:29Z",
+            "open_issues": 99,
             "owner": "sparna-git",
             "repo": "Sparnatural",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "knowledge-graph",
+              "linked-data",
+              "owl",
+              "rdf",
+              "shacl",
+              "sparnatural",
+              "sparql",
+              "typescript",
+              "yasgui"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -549,12 +823,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML5 web component to edit, view and query RDF data that conform to SHACL",
+            "homepage": "https://ulb-darmstadt.github.io/shacl-form/",
             "id": 587204629,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:19:07Z",
+            "open_issues": 2,
             "owner": "ULB-Darmstadt",
             "repo": "shacl-form",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "editor",
+              "rdf",
+              "shacl",
+              "validation",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -565,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Form UI elements driven by SHACL Shapes",
+            "homepage": "https://forms.hypermedia.app",
             "id": 268043924,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-26T13:23:38Z",
+            "open_issues": 17,
             "owner": "hypermedia-app",
             "repo": "shaperone",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -581,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SHACL-generated forms",
+            "homepage": null,
             "id": 385194789,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-03T15:24:09Z",
+            "open_issues": 1,
             "owner": "zazuko",
             "repo": "shacl-forms",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         },
@@ -597,12 +892,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript form builder that uses SHACL shapes as definition",
+            "homepage": "https://shacl-form.mediaworks.global/",
             "id": 622221067,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-05T14:08:27Z",
+            "open_issues": 12,
             "owner": "danielbeeke",
             "repo": "shacl-form",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "dash",
+              "form",
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -619,12 +923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language Server for SHACL compact syntax",
+            "homepage": null,
             "id": 315260106,
             "language": "ANTLR",
+            "license": "MIT",
             "last_commit": "2023-01-02T09:44:56Z",
+            "open_issues": 0,
             "owner": "jeswr",
             "repo": "shaclc-language-server",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -641,12 +950,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight masterclass on everything you need to know about the core of SHACL!",
+            "homepage": null,
             "id": 317516699,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-22T11:53:32Z",
+            "open_issues": 1,
             "owner": "veleda",
             "repo": "shacl-masterclass",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "knowledge-graph",
+              "rdf",
+              "shacl"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
         }
@@ -668,12 +986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShEx test suite",
+                "homepage": "https://shexspec.github.io/shexTest/",
                 "id": 40290850,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T17:25:12Z",
+                "open_issues": 10,
                 "owner": "shexSpec",
                 "repo": "shexTest",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:00:08.382Z"
             }
@@ -684,15 +1007,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:00:08.382Z",
+    "last_updated": "2026-08-29T05:00:12.081Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of RDF Shape resources",
+      "homepage": null,
       "id": 859430257,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-11-17T08:27:33Z",
+      "open_issues": 15,
       "owner": "w3c-cg",
       "repo": "awesome-semantic-shapes",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rdf-shapes",
+        "schacl",
+        "shex"
+      ]
     },
     "original_repository_sha": "fcb06706d1f014255868723bd30a2a42dfe64e93",
     "enhanced_repository": "enhansome/enhansome-semantic-shapes",
