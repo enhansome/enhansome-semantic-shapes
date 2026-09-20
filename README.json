@@ -15,8 +15,8 @@
             "id": 7437073,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T09:57:41Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-19T21:48:04Z",
+            "open_issues": 108,
             "owner": "apache",
             "repo": "jena",
             "stars": 1448,
@@ -41,8 +41,8 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T07:34:53Z",
-            "open_issues": 400,
+            "last_commit": "2026-09-20T10:53:19Z",
+            "open_issues": 408,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 415,
@@ -287,7 +287,7 @@
             "open_issues": 210,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -308,7 +308,7 @@
             "open_issues": 45,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "constraints",
               "owl",
@@ -386,8 +386,8 @@
             "id": 7437073,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T09:57:41Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-19T21:48:04Z",
+            "open_issues": 108,
             "owner": "apache",
             "repo": "jena",
             "stars": 1448,
@@ -412,7 +412,7 @@
             "id": 40290521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T00:57:06Z",
+            "last_commit": "2026-09-20T10:13:00Z",
             "open_issues": 1,
             "owner": "shexjs",
             "repo": "shex.js",
@@ -484,7 +484,7 @@
             "open_issues": 210,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -680,7 +680,7 @@
             "open_issues": 210,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -991,8 +991,8 @@
                 "id": 40290850,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T11:06:52Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-19T17:27:02Z",
+                "open_issues": 10,
                 "owner": "shexSpec",
                 "repo": "shexTest",
                 "stars": 3,
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:29:35.209Z",
+    "last_updated": "2026-09-20T13:43:35.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
