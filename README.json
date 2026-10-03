@@ -41,8 +41,8 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T04:44:35Z",
-            "open_issues": 414,
+            "last_commit": "2026-10-03T13:57:34Z",
+            "open_issues": 430,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 419,
@@ -308,7 +308,7 @@
             "open_issues": 48,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 357,
+            "stars": 356,
             "topics": [
               "constraints",
               "owl",
@@ -642,7 +642,7 @@
             "open_issues": 871,
             "owner": "linkml",
             "repo": "linkml",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "data-dictionaries",
               "data-modeling",
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:47.192Z",
+    "last_updated": "2026-10-03T14:26:05.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
