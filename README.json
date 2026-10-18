@@ -41,8 +41,8 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T11:58:40Z",
-            "open_issues": 442,
+            "last_commit": "2026-10-18T10:14:14Z",
+            "open_issues": 441,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 420,
@@ -308,7 +308,7 @@
             "open_issues": 50,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "constraints",
               "owl",
@@ -412,7 +412,7 @@
             "id": 40290521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T02:54:33Z",
+            "last_commit": "2026-10-18T10:12:19Z",
             "open_issues": 4,
             "owner": "shexjs",
             "repo": "shex.js",
@@ -638,11 +638,11 @@
             "id": 348419208,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T23:10:25Z",
-            "open_issues": 916,
+            "last_commit": "2026-10-17T19:29:28Z",
+            "open_issues": 918,
             "owner": "linkml",
             "repo": "linkml",
-            "stars": 655,
+            "stars": 658,
             "topics": [
               "data-dictionaries",
               "data-modeling",
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:15:46.719Z",
+    "last_updated": "2026-10-18T13:35:55.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
