@@ -41,7 +41,7 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T14:22:59Z",
+            "last_commit": "2026-10-24T13:17:22Z",
             "open_issues": 480,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
@@ -255,8 +255,8 @@
             "id": 731224236,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T11:19:39Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-23T19:38:01Z",
+            "open_issues": 23,
             "owner": "SHACL-X",
             "repo": "shacl-x",
             "stars": 7,
@@ -287,7 +287,7 @@
             "open_issues": 172,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -305,7 +305,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T14:04:37Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "RDFLib",
             "repo": "pySHACL",
             "stars": 365,
@@ -484,7 +484,7 @@
             "open_issues": 172,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -638,7 +638,7 @@
             "id": 348419208,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:28:36Z",
+            "last_commit": "2026-10-24T12:48:15Z",
             "open_issues": 905,
             "owner": "linkml",
             "repo": "linkml",
@@ -680,7 +680,7 @@
             "open_issues": 172,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:28:16.903Z",
+    "last_updated": "2026-10-24T13:37:47.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
