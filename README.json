@@ -19,7 +19,7 @@
             "open_issues": 126,
             "owner": "apache",
             "repo": "jena",
-            "stars": 1490,
+            "stars": 1491,
             "topics": [
               "apache",
               "jena",
@@ -41,11 +41,11 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T15:17:57Z",
-            "open_issues": 473,
+            "last_commit": "2026-10-31T14:22:21Z",
+            "open_issues": 476,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "hacktoberfest",
               "java",
@@ -126,7 +126,7 @@
             "open_issues": 20,
             "owner": "DataTreehouse",
             "repo": "maplib",
-            "stars": 186,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -284,7 +284,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T12:35:28Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 132,
@@ -335,7 +335,7 @@
             "open_issues": 1,
             "owner": "SDM-TIB",
             "repo": "Trav-SHACL",
-            "stars": 28,
+            "stars": 27,
             "topics": [
               "constraint-validation",
               "knowledge-graph",
@@ -390,7 +390,7 @@
             "open_issues": 126,
             "owner": "apache",
             "repo": "jena",
-            "stars": 1490,
+            "stars": 1491,
             "topics": [
               "apache",
               "jena",
@@ -481,7 +481,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T12:35:28Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 132,
@@ -638,11 +638,11 @@
             "id": 348419208,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T09:00:56Z",
-            "open_issues": 914,
+            "last_commit": "2026-10-31T08:08:09Z",
+            "open_issues": 911,
             "owner": "linkml",
             "repo": "linkml",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "data-dictionaries",
               "data-modeling",
@@ -677,7 +677,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T12:35:28Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "rudof-project",
             "repo": "rudof",
             "stars": 132,
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:16:16.048Z",
+    "last_updated": "2026-10-31T15:30:36.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
