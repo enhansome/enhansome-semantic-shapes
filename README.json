@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T13:43:55Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "apache",
             "repo": "jena",
-            "stars": 1498,
+            "stars": 1501,
             "topics": [
               "apache",
               "jena",
@@ -41,8 +41,8 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T16:13:21Z",
-            "open_issues": 461,
+            "last_commit": "2026-11-07T08:35:32Z",
+            "open_issues": 459,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
             "stars": 422,
@@ -308,7 +308,7 @@
             "open_issues": 51,
             "owner": "RDFLib",
             "repo": "pySHACL",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "constraints",
               "owl",
@@ -387,10 +387,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T13:43:55Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "apache",
             "repo": "jena",
-            "stars": 1498,
+            "stars": 1501,
             "topics": [
               "apache",
               "jena",
@@ -638,7 +638,7 @@
             "id": 348419208,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T12:38:39Z",
+            "last_commit": "2026-11-06T20:14:36Z",
             "open_issues": 935,
             "owner": "linkml",
             "repo": "linkml",
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:56:54.982Z",
+    "last_updated": "2026-11-07T15:56:02.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
