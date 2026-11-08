@@ -41,11 +41,11 @@
             "id": 49670957,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T08:35:32Z",
-            "open_issues": 459,
+            "last_commit": "2026-11-08T15:40:07Z",
+            "open_issues": 461,
             "owner": "eclipse-rdf4j",
             "repo": "rdf4j",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "hacktoberfest",
               "java",
@@ -103,7 +103,7 @@
             "open_issues": 17,
             "owner": "TopQuadrant",
             "repo": "shacl",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "shacl"
             ]
@@ -287,7 +287,7 @@
             "open_issues": 172,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -412,7 +412,7 @@
             "id": 40290521,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T10:11:18Z",
+            "last_commit": "2026-11-08T10:14:13Z",
             "open_issues": 7,
             "owner": "shexjs",
             "repo": "shex.js",
@@ -484,7 +484,7 @@
             "open_issues": 172,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -638,8 +638,8 @@
             "id": 348419208,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T20:14:36Z",
-            "open_issues": 935,
+            "last_commit": "2026-11-08T13:31:35Z",
+            "open_issues": 938,
             "owner": "linkml",
             "repo": "linkml",
             "stars": 691,
@@ -680,7 +680,7 @@
             "open_issues": 172,
             "owner": "rudof-project",
             "repo": "rudof",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.382Z"
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:56:02.991Z",
+    "last_updated": "2026-11-08T16:22:58.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of RDF Shape resources",
